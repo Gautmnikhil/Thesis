@@ -66,11 +66,5 @@ The MTFAE model aims to improve feature representation for multiple tasks. Model
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
-
-For any questions or issues, please open an issue on the repository or contact the project maintainer.
-
----
-
-Feel free to contribute or suggest improvements to the project. We appreciate your feedback!
+# ONLY FOR PERSONAL RESEARCH PURPOSE
 
