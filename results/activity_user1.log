@@ -1,0 +1,950 @@
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 14
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TRAIN MODE======================
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: data_factory/dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 14
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: data_factory/dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 14
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 14
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TRAIN MODE======================
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 14
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TRAIN MODE======================
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 14
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TRAIN MODE======================
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TRAIN MODE======================
+Epoch: 1, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 2, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 3, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 4, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 5, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 6, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 7, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 8, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 9, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 10, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 11, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 12, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 13, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 14, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 15, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 16, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 17, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 18, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 19, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 20, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 21, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 22, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 23, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 24, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 25, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 26, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 27, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 28, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 29, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 30, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 31, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 32, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 33, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 34, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 35, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 36, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 37, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 38, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 39, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 40, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 41, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 42, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 43, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 44, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 45, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 46, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 47, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 48, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 49, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 50, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold loader is empty. Cannot proceed with threshold calculation.
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1.0
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1.0
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TRAIN MODE======================
+Epoch: 1, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 2, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 3, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 4, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 5, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 6, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 7, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 8, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 9, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 10, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 11, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 12, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 13, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 14, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 15, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 16, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 17, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 18, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 19, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 20, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 21, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 22, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 23, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 24, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 25, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 26, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 27, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 28, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 29, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 30, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 31, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 32, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 33, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 34, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 35, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 36, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 37, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 38, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 39, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 40, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 41, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 42, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 43, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 44, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 45, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 46, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 47, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 48, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 49, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 50, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TRAIN MODE======================
+Epoch: 1, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 2, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 3, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 4, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 5, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 6, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 7, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 8, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 9, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 10, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 11, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 12, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 13, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 14, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 15, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 16, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 17, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 18, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 19, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 20, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 21, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 22, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 23, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 24, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 25, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 26, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 27, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 28, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 29, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 30, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 31, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 32, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 33, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 34, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 35, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 36, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 37, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 38, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 39, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 40, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 41, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 42, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 43, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 44, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 45, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 46, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 47, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 48, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 49, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 50, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1.0
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: train
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TRAIN MODE======================
+Epoch: 1, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 2, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 3, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 4, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 5, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 6, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 7, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 8, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 9, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 10, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 11, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 12, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 13, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 14, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 15, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 16, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 17, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 18, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 19, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 20, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 21, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 22, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 23, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 24, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 25, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 26, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 27, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 28, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 29, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 30, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 31, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 32, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 33, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 34, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 35, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 36, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 37, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 38, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 39, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 40, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 41, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 42, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 43, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 44, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 45, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 46, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 47, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 48, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 49, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+Epoch: 50, Steps: 4 | Train Loss: 0.0000000 Vali Loss: 0.0000000 
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 6571.7177734375
+Evaluating model on test data...
+Ground Truths Binary Shape: (35,)
+Predictions Binary Shape: (35,)
+Ground Truths Binary Example: [1 1 1 1 1]
+Predictions Binary Example: [0 0 1 0 1]
+Accuracy: 0.6286
+Precision: 1.0000
+Recall: 0.6286
+F1 Score: 0.7719
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Ground Truths Binary Shape: (35,)
+Predictions Binary Shape: (35,)
+Ground Truths Binary Example: [1 1 1 1 1]
+Predictions Binary Example: [0 0 1 0 1]
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Ground Truths Binary Shape: (35,)
+Predictions Binary Shape: (35,)
+Ground Truths Binary Example: [1 1 1 1 1]
+Predictions Binary Example: [0 0 1 0 1]
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Ground Truths Binary Shape: (35,)
+Predictions Binary Shape: (35,)
+Ground Truths Binary Example: [1 1 1 1 1]
+Predictions Binary Example: [0 0 1 0 1]
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Ground Truths Binary Shape: (35,)
+Predictions Binary Shape: (35,)
+Ground Truths Binary Example: [1 1 1 1 1]
+Predictions Binary Example: [0 0 1 0 1]
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Ground Truths Binary Shape: (35,)
+Predictions Binary Shape: (35,)
+Ground Truths Binary Example: [1 1 1 1 1]
+Predictions Binary Example: [0 0 1 0 1]
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Ground Truths Binary Shape: (35,)
+Predictions Binary Shape: (35,)
+Ground Truths Binary Example: [1 1 1 1 1]
+Predictions Binary Example: [0 0 1 0 1]
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Ground Truths Binary Shape: (35,)
+Predictions Binary Shape: (35,)
+Ground Truths Binary Example: [1 1 1 1 1]
+Predictions Binary Example: [0 0 1 0 1]
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
+------------ Options -------------
+anormly_ratio: 0.9
+batch_size: 64
+d_model: 128
+data_path: dataset/activity_user1.npy
+dataset: activity_user1
+e_layers: 3
+fr: 0.4
+gpu: 0
+input_c: 100
+lr: 0.0001
+mode: test
+model_save_path: cpt
+num_epochs: 50
+output_c: 14
+seed: 1
+seq_size: 10
+tr: 0.55
+win_size: 100
+-------------- End ----------------
+======================TEST MODE======================
+Threshold : 1971.3505554199219
+Evaluating model on test data...
+Anomalies saved to: result\activity_user1_anomalies.csv
+Accuracy: 0.7143
+Precision: 1.0000
+Recall: 0.7143
+F1 Score: 0.8333
